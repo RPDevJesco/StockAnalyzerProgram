@@ -1,0 +1,17 @@
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\bin\Debug\net8.0\StockAnalyzerProgram.exe
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\bin\Debug\net8.0\StockAnalyzerProgram.deps.json
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\bin\Debug\net8.0\StockAnalyzerProgram.runtimeconfig.json
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\bin\Debug\net8.0\StockAnalyzerProgram.dll
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\bin\Debug\net8.0\StockAnalyzerProgram.pdb
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\obj\Debug\net8.0\StockAnalyzerProgram.csproj.AssemblyReference.cache
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\obj\Debug\net8.0\StockAnalyzerProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\obj\Debug\net8.0\StockAnalyzerProgram.AssemblyInfoInputs.cache
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\obj\Debug\net8.0\StockAnalyzerProgram.AssemblyInfo.cs
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\obj\Debug\net8.0\StockAnalyzerProgram.csproj.CoreCompileInputs.cache
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\obj\Debug\net8.0\StockAna.5E0EE28F.Up2Date
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\obj\Debug\net8.0\StockAnalyzerProgram.dll
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\obj\Debug\net8.0\refint\StockAnalyzerProgram.dll
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\obj\Debug\net8.0\StockAnalyzerProgram.pdb
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\obj\Debug\net8.0\StockAnalyzerProgram.genruntimeconfig.cache
+C:\Users\jglov\RiderProjects\StockAnalyzerProgram\StockAnalyzerProgram\obj\Debug\net8.0\ref\StockAnalyzerProgram.dll
